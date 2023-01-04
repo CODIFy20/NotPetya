@@ -1,6 +1,8 @@
 # NotPetya 
 ## What is NotPetya? 
 On Tuesday, June 27, 2017 the world became acquainted with the most destructive malware ever to be deployed. The disaster ushered in a new kind of state-sponsored cyber warfare, with Ukraine the target of a Kremlin-backed effort to frighten those doing business with Ukraine, with which Russia had been in a four-year war. NotPetya had some recognizable features of its 2016 predecessor, the RANSOMEWARE PETYA, as well as the May 2017 WannaCry ransomware attack. However, the scale, motive and precedent NotPetya set is cause for alarm. 
+![notpetya-modern-malware](https://user-images.githubusercontent.com/115407638/210616513-1c945a6a-7787-4e51-9034-ed3257a0c2b3.png) 
+
 
 ## Why is NotPetya the most destructive? 
 1) NotPetya fails to meet the definition of ransomware its message seeking ransom  were disingenuous, as there was no authentic decryption-for-payment opportunity. Following a sudden reboot of one’s machine, NotPetya irreversibly encrypted master boot records even for those willing to pay, there was no decryption key. Thus this explains NotPetya is not just ransomeware. 
